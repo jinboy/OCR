@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDemo", "CSharpDemo\CSharpDemo.csproj", "{D3CAF7D9-1A57-4335-B505-42C293E9B433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Debug|x86.ActiveCfg = Debug|x86
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Debug|x86.Build.0 = Debug|x86
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Release|x86.ActiveCfg = Release|x86
+		{D3CAF7D9-1A57-4335-B505-42C293E9B433}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

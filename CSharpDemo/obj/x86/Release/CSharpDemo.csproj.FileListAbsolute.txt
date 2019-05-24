@@ -1,0 +1,9 @@
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\bin\x86\Release\CSharpDemo.exe
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\bin\x86\Release\CSharpDemo.pdb
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.Demo.resources
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.ModifyIP.resources
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.Properties.Resources.resources
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.csproj.GenerateResource.Cache
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.exe
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\CSharpDemo.pdb

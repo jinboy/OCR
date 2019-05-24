@@ -1,0 +1,9 @@
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\bin\x86\Release\autoOCR.exe
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\bin\x86\Release\autoOCR.pdb
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\OCR.csprojResolveAssemblyReference.cache
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\jinboy.Properties.Resources.resources
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\OCR.csproj.GenerateResource.Cache
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\autoOCR.exe
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\autoOCR.pdb
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\jinboy.Demo.resources
+C:\Users\tabjin\Desktop\Demo\CSharpDemo\obj\x86\Release\jinboy.ModifyIP.resources
